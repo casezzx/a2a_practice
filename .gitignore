@@ -1,3 +1,5 @@
+.idea
+src/caches
 src/data
-sample.py
-caches
+src/__pycache__
+src/sample.py
